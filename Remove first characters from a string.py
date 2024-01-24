@@ -7,6 +7,7 @@ def remove_character(string_input, n):
 user_input = input("Enter a word: ")
 
 #ask user for number n 
+n = int(input("Enter the value of n: "))
 
 #remove characters based on user input
 
