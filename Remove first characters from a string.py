@@ -10,6 +10,6 @@ user_input = input("Enter a word: ")
 n = int(input("Enter the value of n: "))
 
 #remove characters based on user input
+result = remove_character(user_input, n)
 
 #print result
-
