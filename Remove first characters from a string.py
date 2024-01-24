@@ -13,3 +13,4 @@ n = int(input("Enter the value of n: "))
 result = remove_character(user_input, n)
 
 #print result
+print(f"New word after removing the first {n} letters:", result)
